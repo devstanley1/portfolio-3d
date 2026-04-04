@@ -1,0 +1,5 @@
+﻿app/page.tsx(3,10): error TS2305: Module '"lucide-react"' has no exported member 'Github'.
+app/page.tsx(3,18): error TS2305: Module '"lucide-react"' has no exported member 'Twitter'.
+app/page.tsx(3,27): error TS2305: Module '"lucide-react"' has no exported member 'Linkedin'.
+components/sections/ProjectsSection.tsx(4,8): error TS1192: Module '"C:/Users/stanl/OneDrive/Documentos/clones/wrokflow de skills/portfolio/node_modules/animejs/dist/modules/index"' has no default export.
+components/ui/AnimatedText.tsx(4,8): error TS1192: Module '"C:/Users/stanl/OneDrive/Documentos/clones/wrokflow de skills/portfolio/node_modules/animejs/dist/modules/index"' has no default export.
